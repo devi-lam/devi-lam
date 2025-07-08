@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devi-lam
 - 👀 I’m 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me : devilam1807@gmail.com
 
